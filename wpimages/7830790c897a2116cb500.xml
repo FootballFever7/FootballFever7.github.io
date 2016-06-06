@@ -1,0 +1,49 @@
+﻿<?xml version="1.0"?>
+<Slides>
+<slideNode jpegURL="672c76c6e23f.jpg" thumbURL="672c76c6e23ft.jpg" jpegWidth="251" jpegHeight="320"></slideNode>
+<slideNode jpegURL="edd70a7d69dc.jpg" thumbURL="edd70a7d69dct.jpg" jpegWidth="620" jpegHeight="413"></slideNode>
+<slideNode jpegURL="bc8fee20130e.jpg" thumbURL="bc8fee20130et.jpg" jpegWidth="353" jpegHeight="540"></slideNode>
+<slideNode jpegURL="e4db9d67cdb3.jpg" thumbURL="e4db9d67cdb3t.jpg" jpegWidth="615" jpegHeight="400"></slideNode>
+<slideNode jpegURL="b5eb14a4fd27.jpg" thumbURL="b5eb14a4fd27t.jpg" jpegWidth="640" jpegHeight="400"></slideNode>
+<slideNode jpegURL="34834c5c74cf.jpg" thumbURL="34834c5c74cft.jpg" jpegWidth="203" jpegHeight="270"></slideNode>
+<slideNode jpegURL="bd7f8f581ea.jpg" thumbURL="bd7f8f581eat.jpg" jpegWidth="720" jpegHeight="405"></slideNode>
+<slideNode jpegURL="8593c532d852.jpg" thumbURL="8593c532d852t.jpg" jpegWidth="720" jpegHeight="404"></slideNode>
+</Slides>
+<setup>
+	<infoNode 
+		sliderposxshift="true"
+		of=" of "
+		sec="sec"
+		PhotoWMax="800"
+		PhotoHMax="600"
+		captionx="400" 
+		captiony="480" 
+		mymusictrack = ""
+		thumbblocklength="8" 
+		fontcolor="0x000000"
+		sliderposx = "568"
+		sliderposy = "4"
+		slideimagein="false"
+		slidervis="true" 
+		verticalthumbs ="false" 
+		slideinimagenudge="false" 
+		thumbxLoc= "0"  
+		photoYLoc="-1" 
+		photoXLoc="0" 
+		thumbyLoc= "570" 
+		thumbsvis= "true" 
+		thumbsize= "50" 
+		thumbgap= "5"  
+		thumbygap= "0" 
+		blur="20" 
+		reflection="false" 
+		popslide="true"
+		popborder="true"
+		sliderdoc = "false"
+		AutoHideControls = "false"
+		Autoplay="true"
+		Sliderdefault="2"
+		>
+	</infoNode>
+</setup>
+ 
